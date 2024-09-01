@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rogymany.github.io/sitemap.html.gz
+Sitemap: https://rogymany.github.io/app/sitemap.html.gz
+Sitemap: https://rogymany.github.io/assets/sitemap.html.gz
+Sitemap: https://rogymany.github.io/css/sitemap.html.gz
+Sitemap: https://rogymany.github.io/includes/sitemap.html.gz
+Sitemap: https://rogymany.github.io/item/sitemap.html.gz
+Sitemap: https://rogymany.github.io/src/sitemap.html.gz
